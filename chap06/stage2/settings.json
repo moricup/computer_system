@@ -1,0 +1,6 @@
+{
+    "path_chap6":"/ ~~~ /nand2tetris/projects/06/",
+    "list_dir":["add/", "max/", "pong/", "rect/"],
+    "list_asm":["Add.asm", "Max.asm", "Pong.asm", "Rect.asm"],
+    "list_hack":["Add.hack", "Max.hack", "Pong.hack", "Rect.hack"]
+}

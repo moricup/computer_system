@@ -1,0 +1,7 @@
+{
+    "path_chap8":"/ ~~~ /nand2tetris/projects/08/",
+    "list_dir":["ProgramFlow/"],
+    "dict_list_file":{
+        "ProgramFlow/":["BasicLoop", "FibonacciSeries"]
+    }
+}

@@ -1,0 +1,1 @@
+Execute 'CodeWrite.writeInit()' if and only if 'Sys.vm' exists.

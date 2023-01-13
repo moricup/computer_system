@@ -1,0 +1,8 @@
+{
+    "path_chap7":"/ ~~~ /nand2tetris/projects/07/",
+    "list_dir":["StackArithmetic/", "MemoryAccess/"],
+    "dict_list_file":{
+        "StackArithmetic/":["SimpleAdd", "StackTest"],
+        "MemoryAccess/":["BasicTest", "PointerTest", "StaticTest"]
+    }
+}
