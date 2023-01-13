@@ -1,4 +1,4 @@
-# What is these.
+# What are these.
 These are an assembler and a compiler written in Python. They were created according to the book nand2tetris (https://www.nand2tetris.org/).
 
 # How to use.
